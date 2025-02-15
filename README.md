@@ -38,7 +38,7 @@ This repository is a comprehensive comparison of identity fraud protection servi
 
 ### 🔗 Resources  
 - [Comparison Sheet](https://cryptpad.fr/sheet/#/2/sheet/view/y7ntmhTnf472Q3eqSgj4ab-MWBuqhgRacfhTH+8Chg0/)  
-- [Avoid These Tools]()  
+- [Avoid These Tools](https://cryptpad.fr/sheet/#/2/sheet/view/42PwksSmq4+anATcdW4GWmqGWU+4QUVJd7LlZTvYGPc/)  
 
 ---
 
