@@ -1,4 +1,5 @@
-# 📊 Ultimate 2025 Identity Fraud Protection Service Comparison
+# Identity Fraud Protection Service Comparison
+
 A comprehensive comparison of identity fraud protection services in 2025. It helps you choose the best tools to avoid data-brokered, big-tech-linked identity protection services, while promoting truly independent, privacy-focused alternatives.
 
 ## Overview  
@@ -35,11 +36,6 @@ This repository is a comprehensive comparison of identity fraud protection servi
 2. Choose the best service for your privacy needs.
 
 3. Share feedback or suggest tools to include!
-
-### 🔗 Resources  
-- [Comparison Sheet](https://cryptpad.fr/sheet/#/2/sheet/view/y7ntmhTnf472Q3eqSgj4ab-MWBuqhgRacfhTH+8Chg0/)  
-- [Avoid These Tools](https://cryptpad.fr/sheet/#/2/sheet/view/42PwksSmq4+anATcdW4GWmqGWU+4QUVJd7LlZTvYGPc/)  
-
 ---
 
 ## Contributing  
