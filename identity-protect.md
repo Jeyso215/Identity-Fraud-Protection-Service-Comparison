@@ -1,0 +1,6 @@
+| Service                 | Pros                                                                 | Cons                                  | Recommended For                                                                 |
+|-------------------------|---------------------------------------------------------------------|---------------------------------------|---------------------------------------------------------------------------------|
+| **IDShield**            | - Best fraud recovery- SSN protection- $3M insurance- TOTP 2FA | - No passkey/YubiKey support          | Users needing comprehensive protection with high insurance                      |
+| **IDX Identity**        | - Passkey & YubiKey support- Independent- AI-powered alerts | - $1M insurance- No investigators | Tech-savvy users wanting modern authentication                                  |
+| **PrivacyGuard**        | - SSN monitoring- Fast alerts- Passkey/YubiKey support      | - No investigators- Blackstone-owned | Those prioritizing rapid alerts over corporate independence                     |
+| **Zander Insurance**    | - Affordable ($6.75/mo)- 100% fraud recovery- No big tech ties | - No active monitoring- No dark web scans | Budget-conscious users supplementing existing monitoring services               |
