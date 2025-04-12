@@ -7,3 +7,4 @@
 | **Equifax ID Protection** | - Operated by Equifax (2017 breach offender)- Conflict of interest          |
 | **Discover Protect**    | - Credit bureau ties- Limited fraud resolution capabilities                 |
 | **Pentester**           | - Allegations of data harvesting- Parent company relationship concerns      |
+| [**IDX**](           | - Violates your privacy by sending you mail to signup for 2 years for "FREE"      |
