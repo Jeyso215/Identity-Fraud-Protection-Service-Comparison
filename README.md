@@ -18,7 +18,7 @@ This repository is a comprehensive comparison of identity fraud protection servi
 
 ## Services Compared  
 
-- **Reliable Tools**: IDShield, IDX Identity, and PrivacyGuard.
+- **Reliable Tools**: IDShield
 
 - **Tools to Avoid**: Ineffective, overpriced options, data-brokered, big-tech-linked identity protection services
 
